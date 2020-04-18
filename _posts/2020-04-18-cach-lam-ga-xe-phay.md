@@ -18,4 +18,12 @@ Nguyên liệu:
 - Nước mắm.
 
 Chế biến:
-- làm
+
+- Làm sạch gà, moi bỏ nội tạng, luộc chín tới.
+- Hành củ thái mỏng ngâm giấm, đường.
+- Hoa chuối thái mỏng ngâm vào nước có pha phèn, rửa sạch, để khô.
+- Rau răm rửa sạch, thái khúc.
+- Đun mỡ nóng già phi hành thơm rồi xúc ra bát. 
+- Bóc thịt gà, xé miếng to bằng ngón tay bóp gia vị, hạt tiêu, rau răm.
+- Cho tiếp hành, giấm, đường, hoa chuối, ớt thái chỉ, nước mắm, mỳ chính, nước canh trộn đều.
+- Sau đó rưới mỡ và hành lên. 
