@@ -13,8 +13,12 @@ keywords:
 
 
 ** Cách nhận biết mật ong bị hỏng
+Dấu hiệu mật ong bị hỏng
 
-Màu sắc: Mật ong bình thường có màu vàng, để càng lâu màu càng chuyển sậm về đen, khi thấy mật chuyển màu thì nên bỏ đi.
+Màu sắc: Mật ong có màu đen.
+Mùi vị: Có vị đắng, cay, ngửi khó chịu.
+
+Trên đây là những dấu hiệu thường gặp ở mật ong bị hư,
 
 Mùi vị: mật ong để lâu sẽ không còn hương thơm ngọt đặc trưng nữa mà có vị đắng hoặc cay, khi ngửi cảm thấy vô cùng khó chịu., mật ong bình thường có vị ngọt xen lẫn chút chua, trong đó vị ngọt là chủ yếu. Càng để lâu, vị ngọt càng giảm và vị chua tăng lên, một số trường hợp mật có thêm vị cay do lên men. Khi độ chua còn chấp nhận được thì mật ong tuy không còn được khuyến khích để pha uống nhưng vẫn có thể sử dụng cho các món ăn; nhưng lâu hơn nữa, khi mật đã lên men, thấy trên bề mặt có bọt trắng, ngửi có mùi cay của rượu thì không nên dùng nữa.
 ** Mật ong để lâu có hỏng không?
