@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Cách nhận biết mật ong bị hỏng?
+title: Cách làm gà xé phay
 image: /img/hello_world.jpeg
 
 ---
