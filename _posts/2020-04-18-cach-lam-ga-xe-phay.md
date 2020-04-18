@@ -5,7 +5,6 @@ image: /img/hello_world.jpeg
 
 ---
 Nguyên liệu:
-
 - Gà mái tơ: 14000g.
 - Mỡ nước: 20g.
 - Hành củ: 200g.
@@ -18,7 +17,6 @@ Nguyên liệu:
 - Nước mắm.
 
 Chế biến:
-
 - Làm sạch gà, moi bỏ nội tạng, luộc chín tới.
 - Hành củ thái mỏng ngâm giấm, đường.
 - Hoa chuối thái mỏng ngâm vào nước có pha phèn, rửa sạch, để khô.
