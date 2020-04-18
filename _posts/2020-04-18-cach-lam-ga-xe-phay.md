@@ -5,6 +5,7 @@ image: /img/hello_world.jpeg
 
 ---
 Nguyên liệu:
+
 - Gà mái tơ: 14000g.
 - Mỡ nước: 20g.
 - Hành củ: 200g.
@@ -15,5 +16,6 @@ Nguyên liệu:
 - Mỳ chính, gia vị.
 - Hạt tiêu, ớt tươi.
 - Nước mắm.
+
 Chế biến:
 - 
